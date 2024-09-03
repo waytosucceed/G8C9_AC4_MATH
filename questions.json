@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "The students want to find the lowest natural number which when divided by 112, 140 and 168 leaves a remainder 8 in each case.",
+        "options": [
+            "68620",
+            "68640",
+            "68628",
+            "68648"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q2",
+        "question": "A merchant has 120 litres of one kind of oil and 180 litres of another kind of oil. He wants to sell both types of oil by filling tins with the same volume. What is the greatest possible volume for these tins such that both kinds of oil can be evenly divided?",
+        "options": [
+            "30 litres",
+            "40 litres",
+            "60 litres",
+            "80 litres"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Six bells commence tolling together and toll at intervals of 2, 4, 6, 8, 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?",
+        "options": [
+            "10",
+            "15",
+            "20",
+            "12"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "The nursing staff at Greenville Hospital makes sure one patient gets his medicine every 6 minutes and another patient gets his medicine every 9 minutes. Both patients just received their doses of medicine. How many minutes from now will both patients get their medicine at the same time?",
+        "options": [
+            "14 minutes",
+            "18 minutes",
+            "16 minutes",
+            "15 minutes"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Kari is buying AA batteries and D batteries. The store sells AA batteries in packs of 144 and D batteries in packs of 180. If Kari wishes to buy the same number of AA and D batteries, what is the smallest number of each battery type that she can buy?",
+        "options": [
+            "540",
+            "680",
+            "720",
+            "810"
+        ],
+        "correct": 2
+    }
+]
